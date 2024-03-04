@@ -46,6 +46,10 @@ img{
   color: #0000FF;
 }
 
+.hover-yellow:hover{
+  color: #FFFF00;
+}
+
 /* Position and style the close button (top right corner) */
 .sidenav .closebtn {
   position: absolute;

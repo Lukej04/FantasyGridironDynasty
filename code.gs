@@ -1,7 +1,7 @@
 //https://www.bpwebs.com/pull-data-from-google-sheets-to-html-table/
 
 function doGet() {
-  return HtmlService.createTemplateFromFile('Index').evaluate();
+  return HtmlService.createTemplateFromFile('Index2').evaluate();
 }
  
 //GET DATA FROM GOOGLE SHEET AND RETURN AS AN ARRAY
